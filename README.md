@@ -1,5 +1,7 @@
 ## Get Started
 
+## Source Code: [RN-News-App](https://github.com/tugane/RN-News-App)
+
 install dev dependencies
 
 ### `npm install` or `yarn install`
